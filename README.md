@@ -67,4 +67,4 @@ The project includes the following files:
 ## Author
 
 Hadeel Ahmed  
-BSc. Computer Science – AI
+Computer Science – AI
