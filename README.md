@@ -62,9 +62,5 @@ The project includes the following files:
 - test.jpg: Sample image used for testing.
 - screenshot.png: Screenshot showing the prediction result.
 
----
 
-## Author
 
-Hadeel Ahmed  
-Computer Science – AI
